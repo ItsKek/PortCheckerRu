@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -204,6 +204,7 @@ namespace MatthiWare.PortChecker
 
         private void label4_Click(object sender, EventArgs e)
         {
+            MessageBox.Show("Запускаю проверку портов.\nЕсли найдутся открытые порты,\nто они появятся в вкладке\n'Открытые порты");
             ushort minPortRange, maxPortRange = 50000;
 
             bool parse1 = !UInt16.TryParse(txtPortRange1.Text, out minPortRange);
