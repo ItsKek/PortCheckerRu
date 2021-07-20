@@ -1,0 +1,14 @@
+C:\Users\Slave\Documents\SOFT\PortChecker-master\PortChecker\PortChecker\obj\x86\Debug\PortChecker.csprojAssemblyReference.cache
+C:\Users\Slave\Documents\SOFT\PortChecker-master\PortChecker\PortChecker\obj\x86\Debug\MatthiWare.PortChecker.CheckPortDialog.resources
+C:\Users\Slave\Documents\SOFT\PortChecker-master\PortChecker\PortChecker\obj\x86\Debug\MatthiWare.PortChecker.frmMain.resources
+C:\Users\Slave\Documents\SOFT\PortChecker-master\PortChecker\PortChecker\obj\x86\Debug\MatthiWare.PortChecker.SettingsDialog.resources
+C:\Users\Slave\Documents\SOFT\PortChecker-master\PortChecker\PortChecker\obj\x86\Debug\PortChecker.csproj.GenerateResource.cache
+C:\Users\Slave\Documents\SOFT\PortChecker-master\PortChecker\PortChecker\obj\x86\Debug\PortChecker.csproj.CoreCompileInputs.cache
+C:\Users\Slave\Documents\SOFT\PortChecker-master\PortChecker\PortChecker\bin\Debug\PortCheck.exe
+C:\Users\Slave\Documents\SOFT\PortChecker-master\PortChecker\PortChecker\bin\Debug\PortCheck.pdb
+C:\Users\Slave\Documents\SOFT\PortChecker-master\PortChecker\PortChecker\obj\x86\Debug\itskekoff.PortChecker.Properties.Resources.resources
+C:\Users\Slave\Documents\SOFT\PortChecker-master\PortChecker\PortChecker\obj\x86\Debug\PortCheck.exe
+C:\Users\Slave\Documents\SOFT\PortChecker-master\PortChecker\PortChecker\obj\x86\Debug\PortCheck.pdb
+C:\Users\Slave\Documents\SOFT\PortChecker-master\PortChecker\PortChecker\bin\Debug\en\PortCheck.resources.dll
+C:\Users\Slave\Documents\SOFT\PortChecker-master\PortChecker\PortChecker\obj\x86\Debug\MatthiWare.PortChecker.frmMain.en.resources
+C:\Users\Slave\Documents\SOFT\PortChecker-master\PortChecker\PortChecker\obj\x86\Debug\en\PortCheck.resources.dll

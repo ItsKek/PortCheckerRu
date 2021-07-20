@@ -1,0 +1,17 @@
+C:\Users\Slave\Documents\SOFT\PortChecker-master\PortChecker\PortChecker\obj\x86\Release\PortChecker.csprojAssemblyReference.cache
+C:\Users\Slave\Documents\SOFT\PortChecker-master\PortChecker\PortChecker\obj\x86\Release\MatthiWare.PortChecker.CheckPortDialog.resources
+C:\Users\Slave\Documents\SOFT\PortChecker-master\PortChecker\PortChecker\obj\x86\Release\MatthiWare.PortChecker.frmMain.resources
+C:\Users\Slave\Documents\SOFT\PortChecker-master\PortChecker\PortChecker\obj\x86\Release\itskekoff.PortChecker.Properties.Resources.resources
+C:\Users\Slave\Documents\SOFT\PortChecker-master\PortChecker\PortChecker\obj\x86\Release\MatthiWare.PortChecker.SettingsDialog.resources
+C:\Users\Slave\Documents\SOFT\PortChecker-master\PortChecker\PortChecker\obj\x86\Release\PortChecker.csproj.GenerateResource.cache
+C:\Users\Slave\Documents\SOFT\PortChecker-master\PortChecker\PortChecker\obj\x86\Release\PortChecker.csproj.CoreCompileInputs.cache
+C:\Users\Slave\Documents\SOFT\PortChecker-master\PortChecker\PortChecker\bin\Release\PortCheck.exe
+C:\Users\Slave\Documents\SOFT\PortChecker-master\PortChecker\PortChecker\bin\Release\PortCheck.pdb
+C:\Users\Slave\Documents\SOFT\PortChecker-master\PortChecker\PortChecker\bin\Release\en\PortCheck.resources.dll
+C:\Users\Slave\Documents\SOFT\PortChecker-master\PortChecker\PortChecker\obj\x86\Release\MatthiWare.PortChecker.frmMain.en.resources
+C:\Users\Slave\Documents\SOFT\PortChecker-master\PortChecker\PortChecker\obj\x86\Release\en\PortCheck.resources.dll
+C:\Users\Slave\Documents\SOFT\PortChecker-master\PortChecker\PortChecker\obj\x86\Release\PortCheck.exe
+C:\Users\Slave\Documents\SOFT\PortChecker-master\PortChecker\PortChecker\obj\x86\Release\PortCheck.pdb
+C:\Users\Slave\Documents\SOFT\PortChecker-master\PortChecker\PortChecker\bin\Release\ru\PortCheck.resources.dll
+C:\Users\Slave\Documents\SOFT\PortChecker-master\PortChecker\PortChecker\obj\x86\Release\MatthiWare.PortChecker.frmMain.ru.resources
+C:\Users\Slave\Documents\SOFT\PortChecker-master\PortChecker\PortChecker\obj\x86\Release\ru\PortCheck.resources.dll
