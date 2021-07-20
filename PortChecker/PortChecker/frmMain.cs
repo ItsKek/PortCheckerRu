@@ -204,7 +204,6 @@ namespace MatthiWare.PortChecker
 
         private void label4_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Запускаю проверку портов.\nЕсли найдутся открытые порты,\nто они появятся в вкладке\n'Открытые порты");
             ushort minPortRange, maxPortRange = 50000;
 
             bool parse1 = !UInt16.TryParse(txtPortRange1.Text, out minPortRange);
@@ -226,6 +225,7 @@ namespace MatthiWare.PortChecker
             portChecker = new PortChecker(minPortRange, maxPortRange, sd.GetNewIp());
 
             portChecker.PortCheckCompleted += new EventHandler<PortEventArgs>(portChecker_PortCheckCompleted);
+            MessageBox.Show("Запускаю проверку портов.\nЕсли найдутся открытые порты,\nто они появятся на левой стороне приложения.");
             portChecker.StartChecking();
         }
 
